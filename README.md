@@ -8,4 +8,4 @@
 * Run ./node_modules/.bin/webdriver-manager start
 * Run ./node_modules/.bin/protractor test/protractor.conf.js
 
-# And I've written out the test case summaries for the multiline form scenario in multiline-multiply.spec.js
+And I've written out the test case summaries for the multiline form scenario in multiline-multiply.spec.js
