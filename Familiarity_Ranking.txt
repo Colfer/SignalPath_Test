@@ -1,0 +1,13 @@
+JQuery = 3
+Python = 3
+Cucumber = 2
+Scala = 4
+Selenium = 1
+Puppet = 4
+Rspec = 3
+Node.js = 1
+Ruby = 3
+Watir = 2
+Java = 1
+Jenkins = 1
+Chef = 3
